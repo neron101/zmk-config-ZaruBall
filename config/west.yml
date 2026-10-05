@@ -10,7 +10,7 @@ manifest:
     # ZMK本体（DYA Studio対応のcormoran版）
     - name: zmk
       remote: cormoran
-      revision: v0.3+custom-studio-protocol
+      revision: v0.3-branch+custom-studio-protocol+activity
       import: app/west.yml
     - name: zmk-pmw3610-driver
       remote: badjeff
