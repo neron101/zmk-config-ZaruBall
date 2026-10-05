@@ -9,7 +9,6 @@
 
 // DYA Studio用
 #include <input/processors/runtime-input-processor.dtsi>
-#include <behaviors/battery_history_request.dtsi>
 #include <behaviors/runtime-sensor-rotate.dtsi>
 
 #define BASE     0
